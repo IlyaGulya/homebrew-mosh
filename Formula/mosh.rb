@@ -2,6 +2,7 @@ class Mosh < Formula
   desc "Remote terminal application"
   homepage "https://mosh.org"
   url "https://github.com/IlyaGulya/mosh/archive/1a1a028d653b8ffd77322629f171d944a215a5b2.tar.gz"
+  version "1.4.0"
   sha256 "e84f42f5c1cc7927ea8ae5886ccdd80bfc5654cbd5af336c81f395f122bcdf32"
   license "GPL-3.0-or-later"
   revision 40
