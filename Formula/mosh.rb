@@ -1,11 +1,11 @@
 class Mosh < Formula
   desc "Remote terminal application"
   homepage "https://mosh.org"
-  url "https://github.com/IlyaGulya/mosh/archive/1a1a028d653b8ffd77322629f171d944a215a5b2.tar.gz"
+  url "https://github.com/IlyaGulya/mosh/archive/dfb9fc54dd20e62b9181acbc25b6ca9cd8bbd75b.tar.gz"
   version "1.4.0"
-  sha256 "e84f42f5c1cc7927ea8ae5886ccdd80bfc5654cbd5af336c81f395f122bcdf32"
+  sha256 "760e50501809bd31a8d1590ad79848889e7bf6af6f0cb9b7c4ce4ea598832faa"
   license "GPL-3.0-or-later"
-  revision 40
+  revision 41
 
   depends_on "autoconf" => :build
   depends_on "automake" => :build
